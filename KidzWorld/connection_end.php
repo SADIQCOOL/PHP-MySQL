@@ -1,0 +1,2 @@
+<?
+mysqli_close($link);
